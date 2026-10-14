@@ -1,4 +1,4 @@
-# ShadowFox Data Science Internship
+# Data Science Internship
 
 This repository contains my submissions for the ShadowFox Data Science Internship.
 
